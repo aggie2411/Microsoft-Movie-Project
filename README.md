@@ -68,6 +68,7 @@ Here is an example of how to embed images from your sub-folder:
 ![graph5](./images/figure_10.png)
 
 ### Impact of Public Opinion on Ratings
+
 ![graph6](./images/figure_11.png)
 
 ## Conclusions

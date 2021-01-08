@@ -87,6 +87,8 @@ Movies that do not make profits are more likely to have received poor reviews fr
 
 From analysing the top 250 highest rated animation films, there are many talented directors who could lead this project. John Musker, Brad Bird, Dean DeBlois, Jennifer Lee to name but a few, they are responsible for hits such as Moana, The Incredibles, Lilo & Stitch and Frozen but are no one hit wonders - they each have multiple entries in the top 250.
 
+![image9](./images/hitmovies.png)
+
 
 ## Conclusions
 

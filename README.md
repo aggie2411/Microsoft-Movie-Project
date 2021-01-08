@@ -42,15 +42,6 @@ I will try and answer the following:
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
-
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
-
-Here is an example of how to embed images from your sub-folder:
 
 ### Most Profitable of All Time
 ![graph1](./images/figure_1.png)

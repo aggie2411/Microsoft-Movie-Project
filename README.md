@@ -53,7 +53,7 @@ The landscape of movie making has changed dramatically since the late 1990's, it
 ### Do Big Budgets Help?
 ![graph3](./images/figure_4.png)
 
-Bigger budget movies tend to have higher profits, however, having a big budget is no guarantee of success. There is no correlation between movie budget and return on investment (ROI)
+Bigger budget movies tend to have higher profits, however, having a big budget is no guarantee of success. There is no correlation between movie budget and return on investment (ROI) (-0.05 correlation coefficient)
 
 
 ### Best Time to Release?
@@ -101,6 +101,10 @@ From analysing the top 250 highest rated animation films, there are many talente
 * The recommended month for release would be July, the data shows July has the highest percentage of profitable movies than all others. Not only that, movies released in May / June / July and November / December are the most profitable. The reason for this should be investigated, it would be interesting to see if there is a correlation between school holidays and movie success and if this is impacted by the rating (PG-13, PG etc.) that the movie is designated. This recommendation is preliminary, release month by genre should be explored.
 
 
+* It would be recommended to invest up to 200m U.S dollars on an animation movie, a Return of Investment of 2 is a reasonable target, i.e $400m profit.
+
+
+
 * Rotten Tomatoes rating vs Profits show the majority of loss making movies have received poor reviews, this indicates achieving positive reviews could be important in determining the success of a movie. 
 
 
@@ -128,9 +132,9 @@ From analysing the top 250 highest rated animation films, there are many talente
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review the full analysis in [our Jupyter Notebook](./final_submission.ipynb) or [presentation](./Phase_1_Project_Presentation.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+
 
 ## Repository Structure
 
@@ -138,8 +142,8 @@ Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── final_submission.ipynb              <- Narrative documentation of analysis in Jupyter notebook
+├── Phase_1_Project_Presentation.pdf    <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```

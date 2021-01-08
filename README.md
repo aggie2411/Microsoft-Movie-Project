@@ -1,4 +1,4 @@
-# Title
+# Flatiron Data Science: Phase 1 Project
 
 **Authors**: Andrew Rowan
 
@@ -52,19 +52,62 @@ Questions to consider:
 
 Here is an example of how to embed images from your sub-folder:
 
-### Visual 1
-![graph1](./images/viz1.png)
+### Most Profitable of All Time
+![graph1](./images/figure_1.png)
+
+### Competitive Industry
+![graph2](./images/figure_2.png)
+
+### Do Big Budgets Help?
+![graph3](./images/figure_4.png)
+
+### Best Time to Release?
+![graph4](./images/figure_7.png)
+
+### What Genre?
+![graph5](./images/figure_10.png)
+
+### Impact of Public Opinion on Ratings
+![graph6](./images/figure_11.png)
 
 ## Conclusions
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
+* Movies are making more profits now than at any other point in history, however, budgets have increased during that time which reduces the Return on Investment.
 
-***
-Questions to consider:
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
-***
+
+* The Animation genre has the highest percentage of profitable movies of any other genres and this would be the first area in which I would recommend Microsoft's focused. Animation genre could be broken down into many sub-genres and this would be a line of work that needs further study. 
+
+
+* Horror is a genre which can reap big rewards, particularly in terms of ROI. It is not as consistently profitable as movies in the animation genre but is certainly worth exploring further.
+
+
+* The recommended month for release would be July, the data shows July has the highest percentage of profitable movies than all others. Not only that, movies released in May / June / July and November / December are the most profitable. The reason for this should be investigated, it would be interesting to see if there is a correlation between school holidays and movie success and if this is impacted by the rating (PG-13, PG etc.) that the movie is designated. This recommendation is preliminary, release month by genre should be explored.
+
+
+* Rotten Tomatoes rating vs Profits show the majority of loss making movies have received poor reviews, this indicates achieving positive reviews could be important in determining the success of a movie. 
+
+
+* A better understanding of what is covered under the "budget" term, does this include marketing? If not this is something else which will eat into profits that is not accounted for here. 
+
+
+* There is a moderate positive correlation between budget and profit, this does not prove causality and spending money is no guarantee on the ROI (no correlation between budget and ROI), money needs to be spent in the correct manner on getting the right people - preferably talent that has a proven track record of delivering high quality movies.
+
+
+* In terms of directors, John Musker, Brad Bird, Dean DeBlois, Jennifer Lee would near the top of any list to be approached. All have been in charge of delivering successful animated movies.
+
+
+* Since this is an animated movie, I have not fully explored options for lead actor roles. I would imagine the influence a lead actor has on movie profits would be dampened in the Animation genre when compared to other live action genres - this would need to be confirmed. There are still many famous names that appear in successful animated films, actors with a background in comedy is particularly common. 
+
+
+* I would recommend a standalone study of the potential future impact streaming companies and platforms could have on future movies' profitabilty and an analysis of the number of people visiting movie theatres.
+
+
+* Further work is recommended on analysing big budget failures of the last 10 years, how and why did they fail?
+
+
+* Investigate additional revenue streams - merchandise and games, both could be lucrative and Microsoft would be well placed to take advantage in the gaming sector.
+
+
 
 ## For More Information
 

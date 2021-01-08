@@ -55,21 +55,47 @@ Here is an example of how to embed images from your sub-folder:
 ### Most Profitable of All Time
 ![graph1](./images/figure_1.png)
 
+Alot of recognisable names, and alot of sequels and franchises...
+
 ### Competitive Industry
 ![graph2](./images/figure_2.png)
+
+The landscape of movie making has changed dramatically since the late 1990's, it is now a much more competitive industry as can be seen by the number of movies being made.
 
 ### Do Big Budgets Help?
 ![graph3](./images/figure_4.png)
 
+Bigger budget movies tend to have higher profits, however, having a big budget is no guarantee of success. There is no correlation between movie budget and return on investment (ROI)
+
+
 ### Best Time to Release?
 ![graph4](./images/figure_7.png)
+
+Summer months and the run up to Christmas are the best time to release a movie, the reasons for this should be explored further.
+Further analysis showed that July has the highest percentage of profitable movies on average.
+
 
 ### What Genre?
 ![graph5](./images/figure_10.png)
 
-### Impact of Public Opinion on Ratings
+Animation leads the way in terms of mean profit per movie, it also performs strongly in the ROI category (not shown here).
+
+### Impact of Public Opinion on Profits
 
 ![graph6](./images/figure_11.png)
+
+Not too surprisingly, public opinion matters. Movies with a higher audience rating tend to be more profitable. This plot captures quite well the impact of "word-of-mouth". 
+
+### Impact of Critic's Ratings on Profits 
+
+![graph7](./images/altair.png)
+
+Movies that do not make profits are more likely to have received poor reviews from critics. However, the reverse isn't seen in profitable movies. The correlation betweeen profitable movies and critics scores is weaker. If you think back to the first plot, there's not many Best Picture Oscar Winners in the top 25...
+
+### Who Should Direct?
+
+From analysing the top 250 highest rated animation films, there are many talented directors who could lead this project. John Musker, Brad Bird, Dean DeBlois, Jennifer Lee to name but a few, they are responsible for hits such as Moana, The Incredibles, Lilo & Stitch and Frozen but are no one hit wonders - they each have multiple entries in the top 250.
+
 
 ## Conclusions
 
